@@ -2,7 +2,11 @@
 
 Map Surfer is a tiny React (TypeScript) demo that reads coordinates from a JSON file and moves a Leaflet marker smoothly along a path.
 
-<video src="https://github.com/user-attachments/assets/456a6d34-8be0-4b09-88be-23f26e447465"></video>
+<video src="https://github.com/user-attachments/assets/456a6d34-8be0-4b09-88be-23f26e447465"   
+autoplay
+muted
+loop
+playsinline></video>
 
 ## Features
 
